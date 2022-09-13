@@ -1,8 +1,8 @@
 # [MM67101]: Thesis Part-I
 
-#Speckle noise removal and segmentation of Breast Ultrasound Cancer Images 
+## Speckle noise removal and segmentation of Breast Ultrasound Cancer Images 
 
-#Thesis Project: Prof.Debashree Guha Adhya [May’22- Present]
+## Thesis Project: Prof.Debashree Guha Adhya [May’22- Present]
 
 
 
