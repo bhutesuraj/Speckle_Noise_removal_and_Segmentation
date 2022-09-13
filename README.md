@@ -1,3 +1,7 @@
+[MM67101]: Thesis Part-I
+Speckle noise removal and segmentation of Breast Ultrasound Cancer Images -Thesis Project: Prof.Debashree Guha Adhya [May’22- Present]
+
+
 # Speckle_Noise_removal_and_Segmentation
 
 Objective - 1 :- Speckle noise reduction of breast cancer images using autoencoder. The purpose is to help doctors/clinician to increase the quality of the images for better view of biomedical images. So, it reduces the risk of the doctor to falsely interpret the biomedical images.
